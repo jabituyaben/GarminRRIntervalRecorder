@@ -1,4 +1,4 @@
-Companion tool to the HRV RR Interval recorder app that extracts RR intervals to a csv file for importing in other tools e.g. Kubios
+Companion tool to the HRV RR Interval recorder app that extracts RR intervals to a csv file for importing into other tools e.g. Kubios.
 
 **Usage:**
 python parser.py filename.fit
