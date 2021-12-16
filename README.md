@@ -6,5 +6,6 @@ python parser.py filename.fit
 Save the script in the same folder as the relevant Fit file and just put the filename next the script name in your console. Note the dependancy on pandas but you can easily alter the script to just export via csv. It's handy using pandas if you want to do more with the interval array in Python rather than exporting.
 
 You can get the HRV RR Interval Recorder app via the Connect IQ appstore:
+https://apps.garmin.com/en-US/apps/c811f0cb-7d0d-4635-b9ac-894aca0a4c87
 
 Please check the compatability list on the Garmin Connect IQ site before downloading and for more details.
